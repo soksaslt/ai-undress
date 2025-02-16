@@ -1,40 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>NudicyAI Undress Script - Telegram Bot</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      background-color: #f7f7f7;
-      color: #333;
-    }
-    h1, h2 {
-      color: #222;
-    }
-    ul {
-      margin: 10px 0;
-      padding-left: 20px;
-    }
-    a {
-      color: #007BFF;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .container {
-      max-width: 800px;
-      margin: auto;
-      background-color: #fff;
-      padding: 20px;
-      border-radius: 8px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    }
-  </style>
-</head>
+
 <body>
   <div class="container">
     <h1>NudicyAI Undress Script - Telegram Bot 🚀</h1>
@@ -73,4 +37,4 @@
     </p>
   </div>
 </body>
-</html>
+
